@@ -18,6 +18,18 @@ later time*.
 
 ------------------------------------------------------------------------------
 
+As an *Author* or *Contributor*,
+I want to **see the state of published work**,
+so that I can *know when my work has been published*.
+
+------------------------------------------------------------------------------
+
+As an *Author* or *Contributor*,
+I want to **know the permalink to the published work**,
+so that I can *share my finished work with others*.
+
+------------------------------------------------------------------------------
+
 As an *Author*,
 I want to **share my draft with colleagues
 and peers**,

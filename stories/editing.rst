@@ -29,7 +29,7 @@ the work on my behave**, so that I *can work on other things*.
 
 ------------------------------------------------------------------------------
 
-As an *Author* and/or *Contributer*,
+As an *Author* and/or *Contributor*,
 I want to **preview the content as a PDF**, so that I can *ensure the
 content presents as I expect in this delivery format*.
 
