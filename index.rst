@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 2
 
    basic-architecture
+   long-winded
    stories/index
    glossary
    changes
